@@ -26,5 +26,6 @@ To install the module, you will need to run the following command:
 
     Install-Module -Name {{moduleName}} -Repository LocalRepository 
 
+For the LogAnalytics functionality, the module to install is Az.Compute. 
 If you're using PowerShell 5.0 or 5.1, this will install the modules to C:\Program Files\WindowsPowerShell\Modules.
 If you're using PowerShell 6.0 and greater, this will install the modules to C:\Program Files\PowerShell\Modules.
