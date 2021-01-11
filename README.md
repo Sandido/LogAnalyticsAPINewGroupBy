@@ -2,7 +2,7 @@
 
 ### This repository is to deliver a fix to DataDog. ###
 
-### Instructions to apply the Powershell fix to the customer's environment ###
+### These are instructions to apply the Powershell fix to the customer's environment ###
 Registering the Repository
 --------------------------
 To install your module from the .nupkg file provided in the pkgs folder, you will need to create a local PowerShell repository that points at the pkgs folder.
